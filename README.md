@@ -1,2 +1,2 @@
 # dvd-logo-animation
-- Live on Github Pages: https://dvd-logo-animation-nahidhsynli.netlify.app/
+- Deploy link: https://dvd-logo-animation-nahidhsynli.netlify.app/
